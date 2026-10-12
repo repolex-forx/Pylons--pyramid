@@ -1,0 +1,7 @@
+[2026-10-12T16:15:29Z] === AST ITERATION 1 START | repo=Pylons/pyramid sha=948c6bac ===
+[2026-10-12T16:15:29Z] [iter=1] PHASE START: ast repo=Pylons/pyramid sha=948c6bac
+[2026-10-12T16:15:29Z] [iter=1] Building AST aggregate chunks
+[2026-10-12T16:19:01Z] [iter=1] AST chunks built count=1 triples=1939467
+[2026-10-12T16:19:01Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/948c6bac3b8ec5160e85e3bf9653c767c978ed94/.complete
+[2026-10-12T16:19:01Z] [iter=1] PHASE END: ast elapsed_s=212 elapsed_min=3.5
+[2026-10-12T16:19:01Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
